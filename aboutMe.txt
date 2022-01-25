@@ -1,3 +1,4 @@
 Name: Trina Nguyen
 Major: COEN
 Year: Senior
+Classes: COEN174 COEN163 COEN195 ENGL151
